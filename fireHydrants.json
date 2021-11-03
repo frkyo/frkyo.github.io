@@ -1,0 +1,1018 @@
+[
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -70.28156,
+      "Y": -1093.465,
+      "Z": 25.545074
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 1192.6882,
+      "Y": -1291.1038,
+      "Z": 34.124306
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": 1221.6498,
+      "Y": -1293.5046,
+      "Z": 34.372475
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": 1205.1833,
+      "Y": -1368.6335,
+      "Z": 34.36393
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": 1178.2721,
+      "Y": -1366.3439,
+      "Z": 33.983353
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 1216.5671,
+      "Y": -1388.0958,
+      "Z": 34.33273
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_4",
+    "Position": {
+      "X": 628.62994,
+      "Y": -3017.7085,
+      "Z": 4.995438
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -977.02344,
+      "Y": -2508.3477,
+      "Z": 12.971046
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -894.4029,
+      "Y": -2436.207,
+      "Z": 12.919037
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -856.59436,
+      "Y": -2543.2727,
+      "Z": 12.968315
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1129.1759,
+      "Y": -130.13443,
+      "Z": 37.96817
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1486.4392,
+      "Y": 61.089905,
+      "Z": 52.95616
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1451.8645,
+      "Y": 110.43234,
+      "Z": 51.252567
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1412.9668,
+      "Y": 213.75229,
+      "Z": 57.9533
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1267.2739,
+      "Y": -55.49772,
+      "Z": 44.431213
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -934.056,
+      "Y": 319.74634,
+      "Z": 70.32621
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -910.9507,
+      "Y": 324.9069,
+      "Z": 72.62722
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1003.8686,
+      "Y": 249.1825,
+      "Z": 65.90231
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -923.95233,
+      "Y": 434.42264,
+      "Z": 80.761284
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1004.6914,
+      "Y": -322.97595,
+      "Z": 36.814148
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -633.50397,
+      "Y": -1019.7091,
+      "Z": 18.965576
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -675.82544,
+      "Y": -1072.2147,
+      "Z": 14.675201
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -713.49884,
+      "Y": -1095.8243,
+      "Z": 11.492371
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -699.87213,
+      "Y": -1057.6576,
+      "Z": 13.809677
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -663.5391,
+      "Y": -1024.8784,
+      "Z": 17.20813
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1409.8231,
+      "Y": -391.64322,
+      "Z": 35.427223
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1738.4326,
+      "Y": -469.01794,
+      "Z": 39.806576
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1849.7412,
+      "Y": -403.20538,
+      "Z": 44.905792
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1777.8643,
+      "Y": -355.0524,
+      "Z": 44.249924
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -2144.211,
+      "Y": -305.89117,
+      "Z": 12.016415
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -2120.6404,
+      "Y": -348.36755,
+      "Z": 12.090176
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1496.5724,
+      "Y": -445.34964,
+      "Z": 34.647957
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1476.1761,
+      "Y": -605.0099,
+      "Z": 29.844131
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1425.6317,
+      "Y": -574.82684,
+      "Z": 29.529041
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1526.147,
+      "Y": -638.0714,
+      "Z": 28.167213
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1554.6362,
+      "Y": -320.17468,
+      "Z": 45.91522
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1348.9664,
+      "Y": -675.565,
+      "Z": 24.73148
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1360.3726,
+      "Y": -562.2793,
+      "Z": 29.16658
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1301.9595,
+      "Y": -858.16724,
+      "Z": 13.630245
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1430.9099,
+      "Y": -912.26227,
+      "Z": 10.014458
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1547.1656,
+      "Y": -858.5065,
+      "Z": 9.096893
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -3231.2522,
+      "Y": 1063.5648,
+      "Z": 10.018188
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -3235.7651,
+      "Y": 1020.0223,
+      "Z": 11.115188
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -3176.6252,
+      "Y": 920.0508,
+      "Z": 13.435562
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -2973.3364,
+      "Y": 453.7351,
+      "Z": 14.286972
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": 376.42627,
+      "Y": 445.4334,
+      "Z": 143.81346
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_4",
+    "Position": {
+      "X": 377.2031,
+      "Y": 445.4281,
+      "Z": 143.81346
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 333.96997,
+      "Y": 400.81885,
+      "Z": 115.950424
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 197.73224,
+      "Y": 434.96283,
+      "Z": 118.064575
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -785.63806,
+      "Y": 434.69983,
+      "Z": 93.84888
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -566.9977,
+      "Y": 499.6073,
+      "Z": 104.13075
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -477.2967,
+      "Y": 378.73138,
+      "Z": 101.75432
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -233.15662,
+      "Y": 403.87598,
+      "Z": 109.191925
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -1179.0632,
+      "Y": 719.89996,
+      "Z": 150.62625
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": -596.59125,
+      "Y": 513.1056,
+      "Z": 105.500946
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -1413.1873,
+      "Y": 484.4848,
+      "Z": 109.02274
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_4",
+    "Position": {
+      "X": -1413.7625,
+      "Y": 484.96725,
+      "Z": 108.91634
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -1258.0891,
+      "Y": 470.84158,
+      "Z": 93.11461
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_4",
+    "Position": {
+      "X": -1258.0083,
+      "Y": 470.09518,
+      "Z": 92.97253
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_4",
+    "Position": {
+      "X": -863.76886,
+      "Y": 489.3852,
+      "Z": 87.48478
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": 2548.7769,
+      "Y": 2642.4412,
+      "Z": 37.02719
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_1",
+    "Position": {
+      "X": 2598.7349,
+      "Y": 353.6176,
+      "Z": 107.491196
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 2560.3928,
+      "Y": 347.7226,
+      "Z": 107.61815
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 1222.0444,
+      "Y": -293.15143,
+      "Z": 68.11421
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -333.68707,
+      "Y": 6212.353,
+      "Z": 30.382233
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -318.47604,
+      "Y": 6235.962,
+      "Z": 30.636742
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -277.76718,
+      "Y": 6245.7417,
+      "Z": 30.403488
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -275.93262,
+      "Y": 6270.3223,
+      "Z": 30.446945
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -419.0192,
+      "Y": 6247.7095,
+      "Z": 29.739769
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -388.75687,
+      "Y": 6284.6934,
+      "Z": 28.50418
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -365.4754,
+      "Y": 6317.9814,
+      "Z": 28.723389
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -285.9108,
+      "Y": 6365.37,
+      "Z": 29.658722
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -287.83017,
+      "Y": 6224.0317,
+      "Z": 30.513824
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -329.68262,
+      "Y": 6247.324,
+      "Z": 30.6316
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -241.35043,
+      "Y": 6282.279,
+      "Z": 30.427681
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -233.99564,
+      "Y": 6312.063,
+      "Z": 30.464172
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -215.05084,
+      "Y": 6330.9844,
+      "Z": 30.496475
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -187.05107,
+      "Y": 6336.587,
+      "Z": 30.429283
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -179.02725,
+      "Y": 6369.8994,
+      "Z": 30.476555
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -127.459366,
+      "Y": 6412.9624,
+      "Z": 30.421082
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -137.76083,
+      "Y": 6386.0215,
+      "Z": 30.5531
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -19.370895,
+      "Y": 6390.546,
+      "Z": 30.418503
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -51.8656,
+      "Y": 6343.2324,
+      "Z": 30.346703
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -70.02231,
+      "Y": 6287.55,
+      "Z": 30.491257
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -101.56027,
+      "Y": 6296.3667,
+      "Z": 30.495941
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -129.52495,
+      "Y": 6233.463,
+      "Z": 30.358566
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -170.78441,
+      "Y": 6228.194,
+      "Z": 30.37387
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -237.08713,
+      "Y": 6392.406,
+      "Z": 30.164398
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -161.10425,
+      "Y": 6354.646,
+      "Z": 30.515198
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -145.7553,
+      "Y": 6321.5425,
+      "Z": 30.612083
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -184.89404,
+      "Y": 6174.2583,
+      "Z": 30.490639
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -226.18445,
+      "Y": 6166.371,
+      "Z": 30.300102
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -234.63057,
+      "Y": 6124.489,
+      "Z": 30.427711
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -244.73784,
+      "Y": 6145.6724,
+      "Z": 30.330109
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -238.19235,
+      "Y": 6173.322,
+      "Z": 30.478317
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -416.90173,
+      "Y": 5987.4707,
+      "Z": 30.588654
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -400.96765,
+      "Y": 6038.3706,
+      "Z": 30.512749
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -424.7747,
+      "Y": 6120.8975,
+      "Z": 30.585358
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -345.92773,
+      "Y": 6176.0303,
+      "Z": 30.360886
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -361.56134,
+      "Y": 6185.0903,
+      "Z": 30.40445
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -301.89255,
+      "Y": 6089.228,
+      "Z": 30.400787
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -261.0872,
+      "Y": 6097.869,
+      "Z": 30.388847
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -335.60178,
+      "Y": 6055.2026,
+      "Z": 30.239426
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -349.2255,
+      "Y": 6007.7163,
+      "Z": 30.236359
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -402.87134,
+      "Y": 6195.223,
+      "Z": 30.503105
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -270.96878,
+      "Y": 6188.2896,
+      "Z": 30.418678
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -107.58276,
+      "Y": 6436.527,
+      "Z": 30.4282
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -67.98683,
+      "Y": 6455.025,
+      "Z": 30.431717
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -43.530838,
+      "Y": 6481.812,
+      "Z": 30.489609
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -42.243866,
+      "Y": 6506.3364,
+      "Z": 30.484047
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -3.733185,
+      "Y": 6540.262,
+      "Z": 30.4374
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -10.540833,
+      "Y": 6510.7266,
+      "Z": 30.566689
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 32.146667,
+      "Y": 6579.9336,
+      "Z": 30.60691
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 87.81293,
+      "Y": 6611.258,
+      "Z": 30.437607
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 19.492981,
+      "Y": 6431.757,
+      "Z": 30.409317
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -184.00888,
+      "Y": 6451.588,
+      "Z": 30.048805
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -153.19296,
+      "Y": 6470.0527,
+      "Z": 29.811554
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -105.83786,
+      "Y": 6547.3755,
+      "Z": 28.516113
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -39.163483,
+      "Y": 6603.5444,
+      "Z": 28.996918
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 41.833252,
+      "Y": 6627.449,
+      "Z": 30.522964
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": -136.09814,
+      "Y": 6452.527,
+      "Z": 30.57389
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 95.086395,
+      "Y": 6450.5566,
+      "Z": 30.511314
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 1663.7098,
+      "Y": 4832.6396,
+      "Z": 41.128876
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 1673.4269,
+      "Y": 4879.911,
+      "Z": 41.012356
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_2",
+    "Position": {
+      "X": 1681.4384,
+      "Y": 4815.4814,
+      "Z": 41.012012
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_4",
+    "Position": {
+      "X": -2027.1064,
+      "Y": 3379.4175,
+      "Z": 30.112396
+    }
+  },
+  {
+    "Name": "prop_fire_hydrant_4",
+    "Position": {
+      "X": 1985.4679,
+      "Y": 3062.5251,
+      "Z": 45.955334
+    }
+  }
+]
